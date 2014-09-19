@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "foofboy",
+    "longName": "Dozenal Weather Face",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Dozenal Weather Face",
+    "uuid": "406c8052-9bc9-4992-a79a-d32844547da5",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
